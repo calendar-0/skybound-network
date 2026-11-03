@@ -12,7 +12,7 @@ An isolated, Docker-based OSINT environment designed for Kali Linux.
 - **Windows:** WSL2 with Kali Linux installed, and Docker Desktop installed with WSL2 integration enabled.
 
 ## Installation
-1. git clone https://github.com/YOUR_USERNAME/skybound-network.git
+1. git clone https://github.com/calendar-0/skybound-network.git
 2. cd skybound-network
 3. sudo bash install.sh
 
